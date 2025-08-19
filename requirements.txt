@@ -1,0 +1,3 @@
+dareplane_utils==0.0.16
+fire==0.7.0
+pre-commit==4.3.0
